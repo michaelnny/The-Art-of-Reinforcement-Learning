@@ -1,0 +1,17 @@
+# Mac/OSX
+.DS_Store
+
+# LaTex files
+*.aux
+*.fls
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+.vscode
